@@ -1,7 +1,7 @@
 .header .logo {
     font-family: "Raleway",sans-serif;
     font-size: 18px;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.3em;
     line-height: 1.33;
     text-decoration: none;
     text-transform: uppercase;
@@ -39,4 +39,5 @@ line-height: 1.5;
 
 .contacts .link {
     font-style: normal;
+    color: #434455;
 }
